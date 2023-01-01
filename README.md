@@ -117,7 +117,7 @@ https://www.google.com/
 
 ### Image
 
-<img src="./images/range-rover.JPG" width="400" title="Range Rover"/>
+<img src="./images/range-rover.jpg" width="400" title="Range Rover"/>
 
 <br/>
 
